@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'EarningMoney ChagChagChag',
+  title: '착착착 돈버는소리',
   tagline: 'tenbagger',
   favicon: 'img/favicon.ico',
 
